@@ -1,3 +1,3 @@
 # stevenbogaerts.github.io
 
-TBD
+Staging ground for web development
